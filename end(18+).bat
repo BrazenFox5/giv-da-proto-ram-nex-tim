@@ -1,1 +1,0 @@
-taskkill /f /im virus(18+).bat /t
