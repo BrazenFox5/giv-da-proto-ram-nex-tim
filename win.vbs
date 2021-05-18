@@ -1,0 +1,1 @@
+x=msgbox("Windows cannot find 'windows'. Make sure you aren't on a Linux distro pretending to be windows and try again.", 0+16, "windows")
