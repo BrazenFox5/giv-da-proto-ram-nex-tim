@@ -9,3 +9,6 @@ This will not harm your machine **that bad**. It is made only to use up your ram
 Do not place this in "shell:startup", but if you do, it is not my fault for an unuseable machine.
 To run the virus, open "LAUNCHER.exe" on x86 and "LAUNCHER (x64).exe" on x64, not "virus.bat" or "error.bat".
 I don't know if it works on older versions of Windows, all I know is that it has to support *.txt, *.bat & *.vbs.
+# Virus Mirrors
+Github (here) is recommanded, Mediafire can be outdated due to multiple links.
+https://www.mediafire.com/file/dsvm175rdr0np6i/Harmless.GivDaProtoRamNexTim.zip/file
