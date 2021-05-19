@@ -11,4 +11,5 @@ To run the virus, open "LAUNCHER.exe" on x86 and "LAUNCHER (x64).exe" on x64, no
 I don't know if it works on older versions of Windows, all I know is that it has to support *.txt, *.bat & *.vbs.
 # Virus Mirrors
 Github (here) is recommanded, Mediafire can be outdated due to multiple links.
+Sorry that Github is updated too much, I am trying to make installing this easiler and less of a pain.
 https://www.mediafire.com/file/dsvm175rdr0np6i/Harmless.GivDaProtoRamNexTim.zip/file
