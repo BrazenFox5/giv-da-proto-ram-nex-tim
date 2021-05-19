@@ -10,6 +10,10 @@ Do not place this in "shell:startup", but if you do, it is not my fault for an u
 To run the virus, open "LAUNCHER.exe" on x86 and "LAUNCHER (x64).exe" on x64, not "virus.bat" or "error.bat".
 I don't know if it works on older versions of Windows, all I know is that it has to support *.txt, *.bat & *.vbs.
 # Virus Mirrors
-Github (here) is recommanded, Mediafire can be outdated due to multiple links.
+Note: Github (here) is recommanded, Mediafire can be outdated due to multiple links.
 Sorry that Github is updated too much, I am trying to make installing this easiler and less of a pain.
-https://www.mediafire.com/file/dsvm175rdr0np6i/Harmless.GivDaProtoRamNexTim.zip/file
+
+Mirrors:
+MediaFire; https://www.mediafire.com/file/dsvm175rdr0np6i/Harmless.GivDaProtoRamNexTim.zip/file
+Github; https://github.com/BrazenFox5/giv-da-proto-ram-nex-tim/releases
+Discord; https://cdn.discordapp.com/attachments/602171416019992576/844382671165849600/Harmless.Win32.GivDaProtoRamNexTim.zip
