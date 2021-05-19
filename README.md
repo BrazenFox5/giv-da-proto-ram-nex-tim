@@ -14,6 +14,6 @@ Note: Github (here) is recommanded, Mediafire can be outdated due to multiple li
 Sorry that Github is updated too much, I am trying to make installing this easiler and less of a pain.
 
 Mirrors:
-MediaFire; https://www.mediafire.com/file/dsvm175rdr0np6i/Harmless.GivDaProtoRamNexTim.zip/file
-Github; https://github.com/BrazenFox5/giv-da-proto-ram-nex-tim/releases
-Discord; https://cdn.discordapp.com/attachments/602171416019992576/844382671165849600/Harmless.Win32.GivDaProtoRamNexTim.zip
+MediaFire: https://www.mediafire.com/file/dsvm175rdr0np6i/Harmless.GivDaProtoRamNexTim.zip/file
+Github: https://github.com/BrazenFox5/giv-da-proto-ram-nex-tim/releases
+Discord: https://cdn.discordapp.com/attachments/602171416019992576/844382671165849600/Harmless.Win32.GivDaProtoRamNexTim.zip
